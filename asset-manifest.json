@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CounterApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CounterApp/static/js/main.cd336e93.chunk.js",
+    "main.js.map": "/CounterApp/static/js/main.cd336e93.chunk.js.map",
+    "runtime-main.js": "/CounterApp/static/js/runtime-main.10483ded.js",
+    "runtime-main.js.map": "/CounterApp/static/js/runtime-main.10483ded.js.map",
+    "static/css/2.89f067aa.chunk.css": "/CounterApp/static/css/2.89f067aa.chunk.css",
+    "static/js/2.ebaf53e5.chunk.js": "/CounterApp/static/js/2.ebaf53e5.chunk.js",
+    "static/js/2.ebaf53e5.chunk.js.map": "/CounterApp/static/js/2.ebaf53e5.chunk.js.map",
+    "index.html": "/CounterApp/index.html",
+    "precache-manifest.7d5a9d5743caabce2c38a96c74d566b6.js": "/CounterApp/precache-manifest.7d5a9d5743caabce2c38a96c74d566b6.js",
+    "service-worker.js": "/CounterApp/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/CounterApp/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/CounterApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ebaf53e5.chunk.js.LICENSE.txt": "/CounterApp/static/js/2.ebaf53e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10483ded.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.ebaf53e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cd336e93.chunk.js"
+  ]
+}
